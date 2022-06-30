@@ -1,0 +1,1 @@
+{"ip":"NT_Japanese_Village.aternos.me","name":"japanesevillage","port":"50007"}
